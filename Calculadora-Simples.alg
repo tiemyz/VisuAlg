@@ -1,12 +1,12 @@
-algoritmo "Teste-Média"
+algoritmo "Teste-MÃ©dia"d
 var
    N1, N2: inteiro
    M: real
 inicio
-   Escreva ("Informe um número: ")
+   Escreva ("Informe um nÃºmero: ")
    Leia (N1)
-   Escreva ("Informe outro número: ")
+   Escreva ("Informe outro nÃºmero: ")
    Leia (N2)
    M <- (N1 + N2)/2
-   Escreva ("A média entre ", N1, " e ", N2, " é igual a ", M)
+   Escreva ("A mÃ©dia entre ", N1, " e ", N2, " Ã© igual a ", M)
 fimalgoritmo
